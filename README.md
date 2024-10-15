@@ -1,4 +1,4 @@
-# code-with-quarkus-ibm-mq
+# code-with-quarkus-mq
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
